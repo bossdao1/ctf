@@ -1,11 +1,11 @@
 # Web
 
 ## Recon
+- Wappalyzer
 - GoogleDork
 - Gobuster
 - ffuf
 - dnsenum
-- Wappalyzer
 - WayBackMachine
 - Aws Buckets
   
@@ -13,4 +13,5 @@
  - Burpsuite
  - Curl
  - Python
+ - CVE , Bug Reports
  - [Exploit-DB](https://www.exploit-db.com/)
